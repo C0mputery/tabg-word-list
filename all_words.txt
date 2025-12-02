@@ -820,3 +820,7 @@ solos
 squads
 operated
 computery
+local
+host
+localhost
+127.0.0.1
