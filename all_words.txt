@@ -827,3 +827,4 @@ localhost
 7777
 port
 on
+Tablytics.dev
